@@ -9,6 +9,7 @@ function App() {
     <div>
       {/* <Accordion />  */}
       {/* <Modal /> */}
+      {/* Comment added */}
       <Stopwatch />
     </div>
   )
